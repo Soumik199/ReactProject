@@ -1,0 +1,80 @@
+-> 1. Props  -commumication btw compoment 
+-> 2. JSX    3. - usestate  - 
+                it contain two things one is that hold the current state of the compoment
+                 & another is a method that will repaint the current state .
+
+
+const Menuitem = [
+    {
+      id: 1,
+      name: "Beguni (Battered fried eggplant)",
+      calories: 280,
+      category: "Starter",
+    },
+    {
+      id: 2,
+      name: "Mochar Chop (Banana flower croquette)",
+      calories: 320,
+      category: "Starter",
+    },
+    {
+      id: 3,
+      name: "Shorshe Ilish (Hilsa in mustard sauce)",
+      calories: 500,
+      category: "Main",
+    },
+    {
+      id: 4,
+      name: "Kosha Mangsho (Slow-cooked spiced mutton)",
+      calories: 650,
+      category: "Main",
+    },
+    {
+      id: 5,
+      name: "Chingri Malai Curry (Prawns in coconut milk)",
+      calories: 480,
+      category: "Main",
+    },
+    {
+      id: 6,
+      name: "Bhetki Paturi (Steamed fish in banana leaf)",
+      calories: 420,
+      category: "Main",
+    },
+    {
+      id: 7,
+      name: "Aloo Posto (Potatoes with poppy seed)",
+      calories: 320,
+      category: "Main",
+    },
+    {
+      id: 8,
+      name: "Cholar Dal (Bengal gram dal)",
+      calories: 260,
+      category: "Main",
+    },
+    {
+      id: 9,
+      name: "Luchi (Deep-fried flatbread)",
+      calories: 300,
+      category: "Side",
+    },
+    {
+      id: 10,
+      name: "Payesh (Rice pudding)",
+      calories: 350,
+      category: "Dessert",
+    },
+    {
+      id: 11,
+      name: "Mishti Doi (Sweet yogurt)",
+      calories: 230,
+      category: "Dessert",
+    },
+    {
+      id: 12,
+      name: "Nolen Gur Sandesh (Date palm jaggery sweet)",
+      calories: 200,
+      category: "Dessert",
+    },
+  ];

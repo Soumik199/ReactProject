@@ -1,0 +1,51 @@
+.container {
+  width: 100%;
+  margin: auto;
+  height: auto;
+  background: rgba(248, 227, 227, 0.17);
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(4.8px);
+  -webkit-backdrop-filter: blur(4.8px);
+  border: 1px solid rgba(248, 227, 227, 0.45);
+}
+.FoodItem {
+  text-align: center;
+  font-style: italic;
+  text-decoration: underline;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 30px;
+  font-family: emoji;
+}
+.Inputfield {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+}
+.form-control {
+  height: 40px;
+}
+
+.AddButton {
+  margin-right: 5px;
+  margin-left: 5px;
+  font-family: math;
+  width: 330px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1.5px;
+}
+.table {
+  font-family: math;
+  font-size: 17px;
+}
+.table > thead {
+  font-family: "Courier New", Courier, monospace;
+}
+.spanright {
+  margin-right: 5px;
+}
